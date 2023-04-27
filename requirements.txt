@@ -1,4 +1,4 @@
 streamlit
 scikit-learn
-pandas
+pandas-0.23.4
 sklearn
